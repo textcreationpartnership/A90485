@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of the forme and governement [sic] of the Kirke of Scotland. 1641.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90485</idno><idno type="EEBO-CITATION">99868270</idno>
+  <idno type="VID">156906</idno>
+  <idno type="EEBO-PROQUEST">2240924844</idno>
+  
+            <idno type="STC">Wing P1510</idno>
+            <idno type="STC">Thomason E158_16</idno>
+            <idno type="STC">ESTC R20939</idno>
+            <idno type="PROQUEST">99868270</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868270e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156906)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E158[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of the forme and governement [sic] of the Kirke of Scotland. 1641.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Woodcut frontispiece.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Government --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:156906:1"/>
+            <p>
+               <figure>
+                  <figDesc>three men kneeling around a clergyman</figDesc>
+                  <p>O pardon us!</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:156906:1"/>
+            <p>A PERFECT RELATION OF THE FORME AND GOVERNEMENT Of the KIRKE of <hi>SCOTLAND.</hi>
+            </p>
+            <p>1641.</p>
+            <figure>
+               <figDesc>winged skull</figDesc>
+               <p>SPES ADDIDIT ALAS.</p>
+            </figure>
+            <p>Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156906:2"/>
+            <pb n="1" facs="tcp:156906:2"/>
+            <head>A PERFECT RELATION OF The Forme and Governement of The Kirke of SCOTLAND. 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Confession of Faith, and Reforma<g ref="char:EOLhyphen"/>tion of the Kirke of Scotland, in Do<g ref="char:EOLhyphen"/>ctrine, Worship, and Discipline, were regulated by the Word of God, and grounded upon Scripture, as is ac<g ref="char:EOLhyphen"/>knowledged by the harmony of confessions of the Re<g ref="char:EOLhyphen"/>formed Kirkes, and by the Testimony of the best Divines in the Kirke of England, and other Refor<g ref="char:EOLhyphen"/>med Kirkes.</p>
+            <p>At that time, and to this day, and amidst the grea<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st desertions, and notwithstanding the ambition &amp; usurpation of the Prelates, no other Ministers and Office-Bearers have bin acknowledged or received by the authority of the Reformed Kirke of Scotland, but Pastors, Doctors, Elders, Deacons, these being
+<pb n="2" facs="tcp:156906:3"/> warranted by Scripture, and being sufficient for all the necessary uses of the Kirkes, yet so, that the Ci<g ref="char:EOLhyphen"/>vill Magistrate had his owne eminent place and Civil power, for the Conservation and Purgation of Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>No man here, were he never so wise, and pious a<g ref="char:EOLhyphen"/>bove others, or doth he never so much arrogate au<g ref="char:EOLhyphen"/>thority to himselfe, hath the reines of Kirke Govern<g ref="char:EOLhyphen"/>ment in his hands, to dispose or doe what seemeth good in his owne eyes, but all matters are advised, and determined by Common-Consent in the Con<g ref="char:EOLhyphen"/>ventions, and Assemblies of the Kirke.</p>
+            <p>The Kirke assemblies, were of foure sorts, and de<g ref="char:EOLhyphen"/>grees, commonly designed by the name of Kirke-Sessions, or Consistories, Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sbyteries, or Classes, Provinciall Synods, and Generall or Nationall As<g ref="char:EOLhyphen"/>sembles.</p>
+            <p>The Kerke-Sessions, or Consistories, doe consist of one Minister at the least, approved for his lear<g ref="char:EOLhyphen"/>ning, life, and skill in government: and of Elders, men of best knowledge, and holiest life in the Pa<g ref="char:EOLhyphen"/>rish, so many in number as the proportion of the Congregation doth require, who are chosen with the consent of the People, solemnely admitted to the charge, these convene weekely, for ordering such m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tters in the worship of God as are proper for that Parish, as what dayes of the weeke are meetest for the exercise of that Day, at what times the commu<g ref="char:EOLhyphen"/>nion shall be given, for censuring of Delinquents in swearing, cursing, Prophanation of the Lords Day, Drinking, Fornication, Adultery, for debating of great affaires, as Heresies, Superstition.</p>
+            <pb n="3" facs="tcp:156906:3"/>
+            <p>If any be suspected, or if there be any scandal in their bounds, proceeding also with the Censures of the Kirke against them, that all Transgressors may bee brought to repentance, or separated from the people of God, according to the Ordinance of Christ, and order of the Kirk: here also the Deacons, who have the charge of the poor, are present to receive directi<g ref="char:EOLhyphen"/>ons in ther duty.</p>
+            <p>The Presbytery or Classicall meeting doth consist of particular Kirkes in such a Circuit, 12. 16. 20. or so many as to the convenience of the place can week<g ref="char:EOLhyphen"/>ly assemble: here some one Elder of each Parish, ap<g ref="char:EOLhyphen"/>pointed by the particular Kirke Session, and the whole Ministers of these Kirkes, doe meet with the Ministers and others to be admitted into the Mini<g ref="char:EOLhyphen"/>stery, whom we call Expectants, exercise their gifts by course, in interpreting some place of Scripture appointed them by the Presbytery: the exercise of Prophesying being ended, the Ministers, and Elders sit downe with their Moderator, and after prayer and censure of the Doctrine, they use the power of Juris<g ref="char:EOLhyphen"/>diction, Ordination, Suspension, Deprivation, Visi<g ref="char:EOLhyphen"/>tation of Kirks, Tryall of the Processe of Excommu<g ref="char:EOLhyphen"/>nication deduced by the particular Eldership, and of direction to the Minister of the Parish to excommu<g ref="char:EOLhyphen"/>nicate, if need be: here the scandalous faults of Mini<g ref="char:EOLhyphen"/>sters in doctrine or life are debated, and all persons whatsoever quality, disobedient to their owne Mini<g ref="char:EOLhyphen"/>sters and Elders, are with great Authority censured.</p>
+            <p>Provinciall Synods doe consist of the whole Pres<g ref="char:EOLhyphen"/>bytery in a shire or Province, so that the whole King<g ref="char:EOLhyphen"/>dome is divided into shires and Provinces, in relation
+<pb n="4" facs="tcp:156906:4"/> to these Synods; here all the Ministers, and one El<g ref="char:EOLhyphen"/>der from every Parish, do meet twice in the yeare: and after Preaching, and calling upon the name of God, by the moderation of the preceeding Synod, a new mode<g ref="char:EOLhyphen"/>rator being chosen, they try the Presbyteries by the Records presented by the Clarke of every Presbyte<g ref="char:EOLhyphen"/>ry, what was obscure or difficult for the Presbyteries, or might concerne them all in common, is determi<g ref="char:EOLhyphen"/>ned and ordered: and if any difficulty arise, which doth not fall under some Kirke Constitution, it is referred to the nationall assembly. All matters are with such diligence expedited, that each Minister may returne to his charge on the Lords day.</p>
+            <p>In the generall or nationall assembly, the Kings Majesty in person, or his Commissioner in his place, useth to be present, who convene once in the year, or oftner, <hi>pro re nata,</hi> it doth consist of Ministers and El<g ref="char:EOLhyphen"/>ders from each Presbytery, and regall Buroghs. After solemne humiliation the first day of the Assembly, one of the Ministers is chosen, by the voyces of the whole assembly, to moderate and pre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de in the assem<g ref="char:EOLhyphen"/>bly: the records of the Synods are perused and tryed, Acts and Constitutions for all the Kirkes are agreed upon with common consent, and all mens doubts and scruples concerning these, are satisfied to the full, if they be proponed <hi>animo aedificandi, non tentandi,</hi> Ap<g ref="char:EOLhyphen"/>pellations, Petitions, Grievances and Complaints, are examined, and dete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mined by this supreame and high<g ref="char:EOLhyphen"/>est Kirke-judicatory, and some Commissioners to present Grievances, or Petitions, agreed upon in the assembly, to the Parliament, the King, the Councell of the Kingdome, or conventions of Estates.</p>
+            <p>In this Authority and subordination of Sessions, Presbyteries, provinciall Synods, nationall assemblies
+<pb n="5" facs="tcp:156906:4"/> doth consist the order, the beauty, the strength of the Kirke of <hi>Scotland,</hi> comfortable to the godly, both Pa<g ref="char:EOLhyphen"/>stors and professors, and terrible as an Army with banners, to Papists, be their places never so high, to all Hereticks, Schismaticks, Hirelings, and all ungodly men; no scandalous fault of any person escapeth cen<g ref="char:EOLhyphen"/>sure, no heresie or errour can sooner be hatched, but it is presently crushed by some of these inferiour as<g ref="char:EOLhyphen"/>semblies; or if it be kept on foot, or take strength, it is quite suppressed by the nationall assembly, convening once in the yeare▪ which hath bin a main cause why so few sects or errours in doctrine or worship, hath ap<g ref="char:EOLhyphen"/>peared in the Kirke of <hi>Scotland</hi> for many yeares and wheresoever these assemblies have place, power and liberty, the names of heresies and sects have not almost bin heard. In these assembles the particular Kirkes are not governed by the intrinsecall power of any one, or many set over them, as in the monarch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all government of Prelates: but they are ruled and judged by them<g ref="char:EOLhyphen"/>selves, and the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r owne intrinsecall power, each mem<g ref="char:EOLhyphen"/>ber of the whole body in an ordely way; none of the whole communion of the faithfull being barred from the joynt and common government. By these assem<g ref="char:EOLhyphen"/>blies the gifts, the knowledge, and the zeale of all the members, especially of the Ministers, are stirred up, quickned, increased, and strengthened, and holy emu<g ref="char:EOLhyphen"/>lation is exited by acquaintance, conference, and by perceiving the gifts one of another: and the best gifts are knowne from the planting of Kirkes and Colled<g ref="char:EOLhyphen"/>ges; whence it is, that Ministers returne from these Assemblies, ashamed and humbled in themselves, and furnished with fresh resolutions for every pastorall duty, for the common benefit and edification of all the Kirkes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
